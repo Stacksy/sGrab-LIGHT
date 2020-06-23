@@ -6,4 +6,5 @@
 THIS IS A LIGHTER VERSION, IT WILL GRAB LESS INFO
 
 **OUTPUT**
+
 ![alt text](https://github.com/Stacksy/sGrab-LIGHT/blob/master/Annotation%202020-06-23%20112547.png)
