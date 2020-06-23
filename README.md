@@ -4,3 +4,6 @@
 - The info will be displayed by the webhook
 
 THIS IS A LIGHTER VERSION, IT WILL GRAB LESS INFO
+
+**OUTPUT**
+![alt text]()
